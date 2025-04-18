@@ -1,0 +1,16 @@
+---
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AllowShortFunctionsOnASingleLine: None
+DerivePointerAlignment: false
+BinPackParameters: false
+BinPackArguments: false
+SpacesInParentheses: true
+SpaceAfterCStyleCast: false
+SpacesInCStyleCastParentheses: true
+AllowShortEnumsOnASingleLine: false
+PointerAlignment: Left
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterDefinitionReturnType: None
+PenaltyReturnTypeOnItsOwnLine: 1000
+ColumnLimit: 120
